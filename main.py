@@ -11,7 +11,7 @@ PGPORT = os.environ.get("PGPORT", "")
 PGUSER = os.environ.get("PGUSER", "")
 PGPASSWORD = os.environ.get("PGPASSWORD", "")
 POSTGRES_DB = os.environ.get("POSTGRES_DB", "")
-TOKEN = os.environ.get("TOKEN", "")
+TOKEN = os.environ.get("TOKEN", "8422042574:AAFOeOoWVfxdIcOT_mJ_JDDbhC4rgpUUKrY")
 
 # --- Helper: UTC ke WIB ---
 def utc_to_wib(dt_utc):
